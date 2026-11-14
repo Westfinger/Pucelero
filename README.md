@@ -17,6 +17,7 @@ Contenido
 --------------------------------------
   Android (Chrome):  abre la dirección → menú ⋮ → «Instalar aplicación»
                      (o «Añadir a pantalla de inicio»).
+ 
   iPhone / iPad (Safari): abre la dirección → botón Compartir →
                      «Añadir a pantalla de inicio».
 
