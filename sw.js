@@ -1,5 +1,5 @@
 // Callejero de Valladolid — funcionamiento sin conexión
-const VERSION = 'callejero-v12';
+const VERSION = 'callejero-v14';
 const CORE = ['./', './index.html', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-512.png', './icons/apple-touch-icon.png'];
 
